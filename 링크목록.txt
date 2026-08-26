@@ -2,11 +2,17 @@
 ※ 한 번만 붙여넣으면 됨. 이후엔 데스크톱 images 폴더에서 이미지만 바꾸고 '상세공통_반영' 실행하면 자동 반영.
 ※ 호스팅: https://tmdrnjs88983-hash.github.io/detail/
 
-[01_상단배너.png]
-<img src="https://tmdrnjs88983-hash.github.io/detail/images/01_상단배너.png" style="display:block;width:100%;max-width:860px;margin:0 auto;">
+[과각리페어수 자사몰.png]
+<img src="https://tmdrnjs88983-hash.github.io/detail/images/과각리페어수%20자사몰.png" style="display:block;width:100%;max-width:860px;margin:0 auto;">
 
-[02_이벤트.png]
-<img src="https://tmdrnjs88983-hash.github.io/detail/images/02_이벤트.png" style="display:block;width:100%;max-width:860px;margin:0 auto;">
+[과각리페어수 쿠팡.png]
+<img src="https://tmdrnjs88983-hash.github.io/detail/images/과각리페어수%20쿠팡.png" style="display:block;width:100%;max-width:860px;margin:0 auto;">
 
-[03_배송안내.png]
-<img src="https://tmdrnjs88983-hash.github.io/detail/images/03_배송안내.png" style="display:block;width:100%;max-width:860px;margin:0 auto;">
+[락티논정 자사몰.png]
+<img src="https://tmdrnjs88983-hash.github.io/detail/images/락티논정%20자사몰.png" style="display:block;width:100%;max-width:860px;margin:0 auto;">
+
+[락티논정 쿠팡.png]
+<img src="https://tmdrnjs88983-hash.github.io/detail/images/락티논정%20쿠팡.png" style="display:block;width:100%;max-width:860px;margin:0 auto;">
+
+[엔조린Q.png]
+<img src="https://tmdrnjs88983-hash.github.io/detail/images/엔조린Q.png" style="display:block;width:100%;max-width:860px;margin:0 auto;">
