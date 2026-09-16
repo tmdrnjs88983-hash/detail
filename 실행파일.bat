@@ -14,9 +14,24 @@ if not exist "%PY%" (
   exit /b 1
 )
 "%PY%" -X utf8 -u "C:\Users\pc\Desktop\클로드코드\tools\detail_common_sync.py"
+set "RC=%ERRORLEVEL%"
 echo.
-echo ================================================
-echo   끝! 링크목록.txt 를 열어 원하는 줄을 복사하세요.
-echo   (1~2분 뒤 상세페이지에 반영됩니다)
-echo ================================================
+if "%RC%"=="0" (
+  echo ##################################################
+  echo #                                                #
+  echo #        [ OK ]   UPLOAD SUCCESS                  #
+  echo #        1~2 min later - detail page updated      #
+  echo #                                                #
+  echo ##################################################
+) else (
+  echo ##################################################
+  echo #                                                #
+  echo #        [ FAIL ]   UPLOAD FAILED                 #
+  echo #        Please tell me / 클로드한테 알려주세요     #
+  echo #                                                #
+  echo ##################################################
+)
+echo.
+echo   링크목록.txt 를 열어 원하는 줄을 복사하세요
+echo.
 pause
